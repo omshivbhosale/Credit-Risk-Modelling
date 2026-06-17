@@ -73,7 +73,3 @@ Credit-Risk-Modelling/
 - Translating a raw model probability into a business-friendly credit score and rating
 - Feature engineering (loan-to-income ratio) and consistent train/inference preprocessing
 - Serializing and loading models with joblib for reuse in a separate inference script
-
-## Acknowledgements
-
-Built by following the **codebasics** machine learning course (codebasics.io). The dataset and core project concept are from the course; this repository is my own implementation.
